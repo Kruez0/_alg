@@ -21,4 +21,4 @@ Homework 5:Watch youtube for more understandment
 
 Homework 6:Learn from watching the teacher explain and youtube 觀看老師解說和youtube學習
 
-Qizhong : youtube and chatgpt if i dont know. But the other machine learning algorithm i did it once i know how one works.
+Qizhong : youtube and chatgpt if i dont know. But the other machine learning algorithm once I know how one works, I just did the other by myself.
