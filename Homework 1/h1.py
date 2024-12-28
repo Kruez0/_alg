@@ -9,7 +9,6 @@ def power2n_b(n):
 
 # 方法 c：用遞迴
 def power2n_c(n):
-    # pass
     if n == 0: return 1
     return 2*power2n_c(n-1)
 
