@@ -9,7 +9,7 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc113a/py2cs <br/> https://www.hello-algo.com/
 
-Homework 1:Modified from the reference example 參考範例修改而成/n
+Homework 1:Modified from the reference example 參考範例修改而成
 
 Homework 2:Modified from the reference example 參考範例修改而成
 
